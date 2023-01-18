@@ -1,0 +1,20 @@
+{
+  "name": "project-003",
+  "version": "1.0.0",
+  "description": "This is a Project for ZTM Web Dev Course [215]",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "BundleJs": "browserify script.js > bundle.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saf-Wayne/Project-003.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saf-Wayne/Project-003/issues"
+  },
+  "homepage": "https://github.com/saf-Wayne/Project-003#readme"
+}
